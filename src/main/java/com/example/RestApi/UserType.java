@@ -1,4 +1,4 @@
-package com.example.getReq;
+package com.example.restApi;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.persistence.*;

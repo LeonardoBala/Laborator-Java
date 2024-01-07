@@ -1,4 +1,4 @@
-package com.example.getReq;
+package com.example.restApi;
 
 import lombok.Data;
 import lombok.Getter;

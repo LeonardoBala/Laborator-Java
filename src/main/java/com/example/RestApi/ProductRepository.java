@@ -1,4 +1,4 @@
-package com.example.getReq;
+package com.example.restApi;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.CrudRepository;

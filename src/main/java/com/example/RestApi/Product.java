@@ -1,4 +1,4 @@
-package com.example.getReq;
+package com.example.restApi;
 
 import jakarta.persistence.*;
 import lombok.Data;
